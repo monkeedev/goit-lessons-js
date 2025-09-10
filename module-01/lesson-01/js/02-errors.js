@@ -6,3 +6,12 @@
  * - Звернення по неправильному імени змінної
  *
  */
+
+const username = "Mango";
+// console.log(user)
+
+// console.log(age);
+let age = 20;
+
+const price = 200;
+// price = 201
